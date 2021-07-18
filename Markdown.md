@@ -32,7 +32,9 @@ ___Italics and bold___ ___ ___
 _ _   _  
 ### 4)Delete line  
 using <del> ___<*del*> </*del*>___ </del>  
-using ~~two wavy lines~~
+using ~~two wavy lines~~  
+### 5)Underline  
+using <u> <*u*> </*u*> </u>
 
 
 
