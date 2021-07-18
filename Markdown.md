@@ -34,7 +34,10 @@ _ _   _
 using <del> ___<*del*> </*del*>___ </del>  
 using ~~two wavy lines~~  
 ### 5)Underline  
-using <span>shhjjj</span>
+mistake for <u>hyderlink</u>  
+### 6)Footnote  
+It's a footnote[^footnote]  
+[^footnote]: using [^]
 
 
 
