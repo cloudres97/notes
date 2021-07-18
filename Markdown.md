@@ -31,7 +31,7 @@ ___Italics and bold___ ___ ___
 - - -
 _ _   _  
 ### 4)Delete line  
-It's <del> two wavy lines </del>  
+using <del> {<del> </del>} </del>  
 
 
 
