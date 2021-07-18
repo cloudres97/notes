@@ -36,7 +36,7 @@ using ~~two wavy lines~~
 ### 5)Underline  
 mistake for <u>hyderlink</u>  
 ### 6)Footnote  
-It's a footnote[^footnote]  
+It's a footnote [^footnote].  
 [^footnote]: using [^]
 
 
