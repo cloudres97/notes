@@ -1,19 +1,35 @@
 # 1. Title
-### Two format 
-1) Using = or -  
- Example:  
- 
+> ### Two format 
+>> Using = or -  
+
+ #### Example:  
+ ```
  This is the first level title!
  =
-   This is the secondary title!
-   -
-2) Using #  
+ This is the secondary title!
+ -
+ ```
+ #### Effects:  
+ This is the first level title!
+ =
+ This is the secondary title!
+ -  
+
+> Using #  
+
 The number of "#" represents the level of the title  
-  Example:  
-   # First level
-   ## Second level   
-   ...
-   ###### Five level  
+#### Example:  
+```
+# First level
+## Second level   
+...
+###### Five level
+```
+#### Effects:  
+# First level
+## Second level   
+...  
+##### Five level  
 # 2.Paragraph and font
 ### 1) newline
 two spaces + enter
