@@ -236,10 +236,10 @@ My github name is [cloudres97][1]
 >### single picture(like links)  
 #### Example:  
 ```
-![My logo](https://avatars.githubusercontent.com/u/81032093?v=4)
+![My logo](https://avatars.githubusercontent.com/u/81032093?v=4 "可愛い猫")
 ```
 #### Effects:  
-![My logo](https://avatars.githubusercontent.com/u/81032093?v=4)  
+![My logo](https://avatars.githubusercontent.com/u/81032093?v=4 "可愛い猫")  
 >### give the picture a name  
 #### Example:  
 ```
@@ -251,4 +251,15 @@ It's my github [logo][My logo]
 It's my github [logo][My logo]  
 ...  
 [My logo](https://avatars.githubusercontent.com/u/81032093?v=4)  
+>### change the size  
+#### Example:  
+```
+<img src="https://avatars.githubusercontent.com/u/81032093?v=4" width="50%" height="50%">
+```
+#### Effects:  
+<img src="https://avatars.githubusercontent.com/u/81032093?v=4" width="10%" height="10%">   
+
+====      
+# 7. Form  
+
 
