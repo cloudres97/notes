@@ -288,5 +288,8 @@ It's my github [logo][My logo]
 |content1|content2|content3|
 |content4|content5|content6|   
 ---  
-# 8. Other tips
-==qdwqdj==
+# 8. Other tips  
+>### HTML   
+|`<kbd>`|`<b>`|`<i>`|`<em>`|`<sup>`|`<sub>`|`<br>`|
+|-|-|-|-|-|-|-|
+
