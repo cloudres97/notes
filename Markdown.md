@@ -257,9 +257,36 @@ It's my github [logo][My logo]
 <img src="https://avatars.githubusercontent.com/u/81032093?v=4" width="50%" height="50%">
 ```
 #### Effects:  
-<img src="https://avatars.githubusercontent.com/u/81032093?v=4" width="10%" height="10%">   
+<img src="https://avatars.githubusercontent.com/u/81032093?v=4" width="10%" height="10%">  
 
-====      
+------  
 # 7. Form  
-
-
+>### Use `|`  
+#### Example:  
+```
+|title|title|
+|-|-|
+|content1|content2|
+|content3|content4|
+```
+#### Effects:  
+|title|title|
+|-|-|
+|content1|content2|
+|content3|content4|  
+>### Alignment  
+#### Example:  
+```
+|title|title|title|
+|:-|-:|:-:|
+|content1|content2|content3|
+|content4|content5|content6|
+```
+#### Effects:  
+|title|title|title|
+|:-|-:|:-:|
+|content1|content2|content3|
+|content4|content5|content6|   
+---  
+# 8. Other tips
+==qdwqdj==
