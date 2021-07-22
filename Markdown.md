@@ -1,6 +1,6 @@
 # 1. Title
 > ### Two format 
-> > Using = or -  
+> > Use = or -  
 
  #### Example:  
  ```
@@ -66,13 +66,13 @@ _ _   _
 - - -
 _ _   _  
 >### Delete line  
-using <del>  <*del*> </*del*></del>  
-using ~~two wavy lines~~  `~~two wavy lines~~`    
+use <del>  <*del*> </*del*></del>  
+use ~~two wavy lines~~  `~~two wavy lines~~`    
 
 ---  
 # 3. List  
 >### Unordered list  
-`using * or + or - (notice space)`  
+`use * or + or - (notice space)`  
 #### Example:  
 ```
 * one
@@ -100,7 +100,7 @@ using ~~two wavy lines~~  `~~two wavy lines~~`
 * two
 + three  
 >### Ordered list  
-`Using number + . (notice space)`  
+`Use number + . (notice space)`  
 #### Example:  
 ```
 1. one
@@ -132,7 +132,7 @@ using ~~two wavy lines~~  `~~two wavy lines~~`
 
 ---  
 # 4. Block  
-`Using >`  
+`Use >`  
 #### Example:  
     >one
     >>two
@@ -141,7 +141,7 @@ using ~~two wavy lines~~  `~~two wavy lines~~`
 >one
 >>two
 >>>three  
-`Using lists in the block`  
+`Use lists in the block`  
 #### Example:  
     >block1
     >1. one
@@ -150,7 +150,7 @@ using ~~two wavy lines~~  `~~two wavy lines~~`
 >block1
 >1. one
 >2. two  
-`Using blocks in the list(four spaces forward >)`
+`Use blocks in the list(four spaces forward >)`
 #### Example:  
 ```
 1. one
@@ -167,12 +167,58 @@ using ~~two wavy lines~~  `~~two wavy lines~~`
 # 5. Code  
 >### In Sentence 
 ```
-Using ` `
+Use ` `
 ```
 #### Example:  
 ```
-Using `reboot` in terminal to reboot!
+Use `reboot` in terminal to reboot!
 ```
 #### Effects:  
-Using `reboot` in terminal to reboot!  
->### Code block
+Use `reboot` in terminal to reboot!  
+>### Code block  
+1. Use four space or a Tab  
+#### Example:  
+```
+    int main()
+    {
+        return 0;
+    }
+```
+#### Effects:  
+    int main()
+    {
+        return 0;
+    }   
+2. Use ` ``` `  
+#### Example:  
+    ```  
+    int main()
+    {
+        return 0;
+    }
+    ```   
+#### Effects:  
+```
+int main()
+{
+    return 0;
+}
+```  
+---  
+# 5. Links  
+>### Name + link  
+#### Example:  
+```
+[github](https://github.com/cloudres97)
+```
+#### Effects:  
+[github](https://github.com/cloudres97)  
+>### only link  
+#### Example:  
+```
+<https://github.com/cloudres97>
+```
+#### Effects:  
+<https://github.com/cloudres97>  
+
+
