@@ -54,13 +54,21 @@ __Bold__
 ***Italics and bold***    
 ___Italics and bold___   
 >### Separator  
-*more than three * or - or _, without other symbols except space*
+*more than three * or - or _, without other symbols except space*  
+#### Example:
+```
+**  *
+- - -
+_ _   _ 
+```
+#### Effects:  
 **  *
 - - -
 _ _   _  
 >### Delete line  
-using <del><*del*> </*del*></del>  
-using ~~two wavy lines~~  
+using <del>  <*del*> </*del*></del>  
+using ~~two wavy lines~~  `~~two wavy lines~~`  
+
 
    
 
