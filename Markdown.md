@@ -220,5 +220,16 @@ int main()
 ```
 #### Effects:  
 <https://github.com/cloudres97>  
+>### link at the end  
+#### Example:  
+```
+My github name is [cloudres97][1]  
+...  
+[1]: https://github.com/cloudres97
+```
+#### Effects:  
+My github name is [cloudres97][1]  
+...  
+[1]: https://github.com/cloudres97  
 
 
