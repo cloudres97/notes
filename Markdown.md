@@ -231,5 +231,24 @@ My github name is [cloudres97][1]
 My github name is [cloudres97][1]  
 ...  
 [1]: https://github.com/cloudres97  
-
+===   
+# 6. Picture  
+>### single picture(like links)  
+#### Example:  
+```
+![My logo](https://avatars.githubusercontent.com/u/81032093?v=4)
+```
+#### Effects:  
+![My logo](https://avatars.githubusercontent.com/u/81032093?v=4)  
+>### give the picture a name  
+#### Example:  
+```
+It's my github [logo][My logo]
+...
+[My logo](https://avatars.githubusercontent.com/u/81032093?v=4)
+```
+#### Effects:  
+It's my github [logo][My logo]  
+...  
+[My logo](https://avatars.githubusercontent.com/u/81032093?v=4)  
 
