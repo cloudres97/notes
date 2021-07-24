@@ -3,4 +3,6 @@
 2. close the page: <kbd>Ctrl</kbd>+<kbd>W</kbd>  
 3. switch the page: <kbd>Ctrl</kbd>+<kbd>num</kbd>  
 4. search the content selected with `Bing`: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>E</kbd>  
-5. 
+5. open the files with preferred application in terminal: `$ xdg-open filename`
+    - website using: `$ xdg-open https://github.com`
+6. aliase 别名
