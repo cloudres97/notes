@@ -141,6 +141,7 @@ use ~~two wavy lines~~  `~~two wavy lines~~`
 >one
 >>two
 >>>three  
+
 `Use lists in the block`  
 #### Example:  
     >block1
@@ -150,6 +151,7 @@ use ~~two wavy lines~~  `~~two wavy lines~~`
 >block1
 >1. one
 >2. two  
+ 
 `Use blocks in the list(four spaces forward >)`
 #### Example:  
 ```
