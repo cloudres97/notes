@@ -6,3 +6,5 @@
 5. open the files with preferred application in terminal: `$ xdg-open filename`
     - website using: `$ xdg-open https://github.com`
 6. aliase 别名
+7. compulsory 必修
+8. 
