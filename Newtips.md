@@ -28,4 +28,5 @@ $WM_PROJECT_DIR ($HOME/OpenFOAM/OpenFOAM-n)
     -README.org
 ```
 2. Directives set: 指令集
-3. 
+3. save *log* files: `$> blockMesh | tee log.blockMesh`
+4. 
