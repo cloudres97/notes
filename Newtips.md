@@ -55,4 +55,10 @@ $WM_PROJECT_DIR ($HOME/OpenFOAM/OpenFOAM-n)
     |:-:|:-:|:-:|
     |patch|-|-|
     |wall|fixedValue|zeroGradient|
-    |movingWall\nfixedWalls\nfrontAndBack|
+    |movingWall<br>fixedWalls<br>frontAndBack|movingWall<br>fixedWalls<br>frontAndBack|movingWall<br>fixedWalls<br>frontAndBack|
+9. Line break in table(html): `<br>`
+10. entry: 条目
+11. **banana method**: use a dummy word, OpenFOAM will list the available options
+12. interpolation: 插值
+13. notation: 符号、注释、表示法
+14. 
