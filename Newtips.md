@@ -61,4 +61,8 @@ $WM_PROJECT_DIR ($HOME/OpenFOAM/OpenFOAM-n)
 11. **banana method**: use a dummy word, OpenFOAM will list the available options
 12. interpolation: 插值
 13. notation: 符号、注释、表示法
-14. 
+14. The type of the field variable(in the header):
+    - scalar: `class volScalarField;`
+    - vector: `class volVectorField;`
+    - tensor: `class volTensorField;`
+
