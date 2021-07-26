@@ -29,4 +29,25 @@ $WM_PROJECT_DIR ($HOME/OpenFOAM/OpenFOAM-n)
 ```
 2. Directives set: 指令集
 3. save *log* files: `$> blockMesh | tee log.blockMesh`
-4. 
+
+#### 7/26/2021 (*Still in the dormitory*)
+1. `Gnuplot`
+    - `gnuplot> set logscale y`: set log scale in the y axis
+    - `gnuplot> plot 'logs/p_0' using 1:2 with lines`: plot 'p_0' using columns 1 and 2 with lines
+    - `gnuplot> reset`: reset the scales
+    - `gnuplot> exit`: exit 
+2. `foamClean`
+    - `$> foamCleanTutorials`: Mesh/Solution/parallel
+    - `$> foamCleanPolyMesh`: Only Mesh
+    - `$> foamListTimes -rm`: Solutions
+    - `$> foamListTimes -rm -processor`: Solutions in the **processorN** directories
+3. Variables in **transportProperties** file
+    - *rho* density
+    - *nu* kinematic viscosity
+    - *mu* dynamic viscosity
+    - *g* gravity
+4. vertice: 顶点
+5. macro syntax: 宏语法
+6. be of paramount important: 至关重要
+7. tricky: 棘手
+8. 
