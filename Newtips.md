@@ -50,4 +50,9 @@ $WM_PROJECT_DIR ($HOME/OpenFOAM/OpenFOAM-n)
 5. macro syntax: 宏语法
 6. be of paramount important: 至关重要
 7. tricky: 棘手
-8. 
+8. **Boundary** types
+    |boundary|0/U|0/p|
+    |:-:|:-:|:-:|
+    |patch|-|-|
+    |wall|fixedValue|zeroGradient|
+    |movingWall\nfixedWalls\nfrontAndBack|
