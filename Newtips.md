@@ -75,3 +75,7 @@ Y=3.0;
 Z #calc "$X*$Y-12.0";
 ```
 3. loop: 循环
+4. serial: 串行
+5. prompt: 提示(符)
+6. identical: 相同
+7. 
