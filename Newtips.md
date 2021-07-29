@@ -44,7 +44,7 @@ $WM_PROJECT_DIR ($HOME/OpenFOAM/OpenFOAM-n)
 3. Variables in **transportProperties** file
     - *rho* density
     - *nu* kinematic viscosity
-    - *mu* dynamic viscosity
+    - *mu* dynamic viscosity``
     - *g* gravity
 4. vertice: 顶点
 5. macro syntax: 宏语法
@@ -67,4 +67,11 @@ $WM_PROJECT_DIR ($HOME/OpenFOAM/OpenFOAM-n)
     - tensor: `class volTensorField;`
 
 #### 7/29/2021 
-1. 
+1. curly braces: 大括号
+2. Inline calculations:
+```
+X=10.0;
+Y=3.0;
+Z #calc "$X*$Y-12.0";
+```
+3. 
