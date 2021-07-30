@@ -84,4 +84,7 @@ Z #calc "$X*$Y-12.0";
 2. trigger: 触发
 3. interpret: 解释
 4. divergence: 发散
-5. 
+5. *adjustTimeStep* is only present in **PIMPLE**
+6. blend: 混合
+7. compressible solvers use absolute pressure
+
