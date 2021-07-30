@@ -78,4 +78,10 @@ Z #calc "$X*$Y-12.0";
 4. serial: 串行
 5. prompt: 提示(符)
 6. identical: 相同
-7. 
+
+#### 7/30/2021
+1. perturbation: 摄动
+2. trigger: 触发
+3. interpret: 解释
+4. divergence: 发散
+5. 
