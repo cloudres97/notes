@@ -88,3 +88,9 @@ Z #calc "$X*$Y-12.0";
 6. blend: 混合
 7. compressible solvers use absolute pressure
 
+#### 7/31/2021 (*Mount Fuji*)
+1. preliminary: 初步
+2. overlapping: 重叠
+3. fillet: 倒角
+4. flange: 法兰
+5. 
