@@ -93,4 +93,6 @@ Z #calc "$X*$Y-12.0";
 2. overlapping: 重叠
 3. fillet: 倒角
 4. flange: 法兰
-5. 
+5. skewness: 倾斜
+6. deviation: 偏差
+7. strive: 努力
