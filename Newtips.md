@@ -105,6 +105,11 @@ Z #calc "$X*$Y-12.0";
 |pyramid|四棱锥|
 |hexahedron|六面体|
 |prism|棱柱|
-|polyhedron|多面体|  
+|polyhedron|多面体|
+|quadrilateral|四边形|
+|triangular|三角形|
 
-2. 
+2. metric: 指标
+3. diagnose: 诊断
+4. orthogonality: 正交性
+5. 
