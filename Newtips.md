@@ -112,4 +112,5 @@ Z #calc "$X*$Y-12.0";
 2. metric: 指标
 3. diagnose: 诊断
 4. orthogonality: 正交性
-5. 
+5. validity: 有效性
+6. 
