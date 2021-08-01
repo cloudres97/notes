@@ -96,3 +96,15 @@ Z #calc "$X*$Y-12.0";
 5. skewness: 倾斜
 6. deviation: 偏差
 7. strive: 努力
+
+#### 8/1/2021
+1. Mesh types  
+
+|tetrahedron|四面体|
+|:-:|:-:|
+|pyramid|四棱锥|
+|hexahedron|六面体|
+|prism|棱柱|
+|polyhedron|多面体|  
+
+2. 
