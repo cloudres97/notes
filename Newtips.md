@@ -113,4 +113,6 @@ Z #calc "$X*$Y-12.0";
 3. diagnose: 诊断
 4. orthogonality: 正交性
 5. validity: 有效性
-6. 
+
+#### 8/2/2021
+1. 
