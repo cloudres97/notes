@@ -115,4 +115,5 @@ Z #calc "$X*$Y-12.0";
 5. validity: 有效性
 
 #### 8/2/2021
-1. 
+1. for instance: 例如
+
