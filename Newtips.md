@@ -120,4 +120,4 @@ Z #calc "$X*$Y-12.0";
 #### 8/3/2021
 1. intersect: 相交
 2. *resolveFeatureAngle* 
-    - <img src="/home/Pictures/ResolveFeatureAngle.png" width="50%" height="50%">
+    - <img src="/home/sjtu/Pictures/ResolveFeatureAngle.png" width="50%" height="50%">
