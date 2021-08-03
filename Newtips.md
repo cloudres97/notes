@@ -117,3 +117,7 @@ Z #calc "$X*$Y-12.0";
 #### 8/2/2021
 1. for instance: 例如
 
+#### 8/3/2021
+1. intersect: 相交
+2. *resolveFeatureAngle* 
+    - <img src="/home/Pictures/ResolveFeatureAngle.png" width="50%" height="50%">
