@@ -121,7 +121,12 @@ Z #calc "$X*$Y-12.0";
 1. intersect: 相交
 2. *resolveFeatureAngle*  
 <img src="https://github.com/cloudres97/PictureSources/blob/main/ResolveFeatureAngle.png?raw=true" width="60%">  
-3. digit: 数字
-4. 
+
+3. digit: 数字  
+4. uncheck: 取消勾选  
+5. portable: 便携的  
+6. bus: 总线  
+7. `$> paraFoam -builtin`: post-process the decomposed case directly  
+8. 
 
     
