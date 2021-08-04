@@ -129,6 +129,9 @@ Z #calc "$X*$Y-12.0";
 7. `$> paraFoam -builtin`: post-process the decomposed case directly  
 
 #### 8/4/2021
-1. 
+1. probes: 探针
+2. derive: 派生
+3. obliged: 强制、有义务的
+4. drawback: 缺点
 
     
