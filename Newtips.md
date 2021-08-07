@@ -134,4 +134,7 @@ Z #calc "$X*$Y-12.0";
 3. obliged: 强制、有义务的
 4. drawback: 缺点
 
+#### 8/7/2021
+1. overhead: 开销
+2. 
     
