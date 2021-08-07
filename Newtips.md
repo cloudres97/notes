@@ -136,5 +136,10 @@ Z #calc "$X*$Y-12.0";
 
 #### 8/7/2021
 1. overhead: 开销
-2. 
+2. substitute: 代入
+3. sparse: 稀疏
+4. dramatically: 大幅
+5. hybrid: 混合
+6. marginally: 稍微
+7. 
     
