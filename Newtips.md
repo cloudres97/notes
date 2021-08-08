@@ -141,5 +141,12 @@ Z #calc "$X*$Y-12.0";
 4. dramatically: 大幅
 5. hybrid: 混合
 6. marginally: 稍微
-7. 
+
+#### 8/8/2021
+1. Set **nCorrectors** > 3 in PISO/PIMPLE if **CFL** is much higher than 1
+2. under-relaxation factor: 亚松弛因子
+3. monolithic: 整体的
+4. Physically speaking, *symmetry* is equivalent to slip wall
+5. discharge: 释放
+6. 
     
