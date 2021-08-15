@@ -165,3 +165,5 @@ FatalErrorIn
 ```
 FatalErrorInFunction
 ```
+3. sixDoFRigidBodyMotionSolver  
+`rhoname` -> `rho`
