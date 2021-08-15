@@ -149,4 +149,19 @@ Z #calc "$X*$Y-12.0";
 4. Physically speaking, *symmetry* is equivalent to slip wall
 5. discharge: 释放
 
-    
+#### 8/15/2021
+1. `$> df -hl`: FileSystem ***Ubuntu***
+2. Differences from OF versions  
+```
+FatalErrorIn
+   (
+        "Foam::sixDoFRigidMotionConstraints::axis::read"
+        "("
+             "constant dictionary& sDoFRBMCDict"
+        ")"
+   )
+```
+
+```
+FatalErrorInFunction
+```
