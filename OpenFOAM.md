@@ -5,7 +5,6 @@ Courier new: Linux commands
 
 ---  
 
-$$\frac{\partial T}{\partial t}$$   
 ```c++
 solve
 (
