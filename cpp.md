@@ -3,7 +3,7 @@
 void showx()
 {
     if (this == NULL)
-    return;
+        return;
     cout << "showx: " << x << endl;
 }
 ```
