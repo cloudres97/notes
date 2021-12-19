@@ -63,4 +63,6 @@ void test01()
     ((A *)p)->show_a();
 }
 ```  
-> 输出结果为255，由于将指针强转为A*，例子中调用show_a()函数需要访问_a这个bool型变量，于是编译器在b的内存处向后访问1字节，即_b，得到255这个结果，如果_b=256，那么show_a()调用输出的结果就为0。若A类中_a的类型为double，即大于_b的int，那么调用show_a()会访问8字节，超过_b的储存区域。
+> 输出结果为255，由于将指针强转为A*，例子中调用show_a()函数需要访问_a这个bool型变量，于是编译器在b的内存处向后访问1字节，即_b，得到255这个结果，如果_b=256，那么show_a()调用输出的结果就为0。若A类中_a的类型为double，即大于_b的int，那么调用show_a()会访问8字节，超过_b的储存区域
+
+有关派生类和基类指针互转>><a href="https://blog.csdn.net/PanPen120/article/details/39432143?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.highlightwordscore&spm=1001.2101.3001.4242.2">...</a>
