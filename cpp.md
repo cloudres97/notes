@@ -16,4 +16,19 @@ Person &operator+(Person &p1, Person &p2)
     sp._b = p1._b + p2._b;
     return sp;
 }
+```  
+#### 3. 指针强行访问私有属性  
+```cpp
+class A
+{
+private:
+    int _x = 0;
+};
+
+int main()
+{
+    A a;
+    int *p = (*int)&a;
+    cout << *p << endl;
+}
 ```
